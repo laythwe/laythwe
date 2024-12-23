@@ -1,6 +1,6 @@
 ##  🐱 I'm Win Myat Thwe. I love continuous-learning and try to improve 1% better every day.
 
-"I am a software developer with a strong focus on backend development, building robust and scalable solutions. I am expanding my expertise by diving into DevOps culture, exploring practices like CI/CD, infrastructure as code, and automation. I am also actively learning containerization technologies such as Docker and Kubernetes to streamline application deployment and improve operational efficiency."
+"I am a software developer with a strong focus on backend development, building robust and scalable solutions. I am expanding my expertise by diving into DevOps culture and automation. "
 
 ## I am interested in ##
 
