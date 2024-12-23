@@ -1,4 +1,7 @@
-## Hi there 👋
+##  👋 I'm Win Myat Thwe , i love continuous-learning and try to improve 1% better every day.
+
+
+https://camo.githubusercontent.com/49e67c5991480c6fd3fb909c138b2e4b7e72608b863de455559120090f7907f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e5f4157532d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465
 
 <!--
 **laythwe/laythwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
